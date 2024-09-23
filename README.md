@@ -1,2 +1,2 @@
 Here is my first assignment in R.
-(I didn't know why I accidentally put "environment.R" in this repo...TAT)
+(I didn't notice that I accidentally put "environment.R" in this repo...TAT)
